@@ -1,0 +1,37 @@
+_repo: Kansa-nousee_53632
+_version: 0.0.1
+alternative_title: Savrola. Finnish
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+creator:
+  author:
+    agent_name: Churchill, Winston
+    aliases:
+    - Churchill, Winston Leonard Spencer, Sir
+    - Churchill, Winston Spencer
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '1601'
+    url: http://www.gutenberg.org/2009/agents/1601
+    wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill
+description: ''
+gutenberg_issued: '2016-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53632'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcc 'PR'
+- !lcsh 'Revolutions -- Fiction'
+- GITenberg
+title: Kansa nousee
+url: http://www.gutenberg.org/ebooks/53632
