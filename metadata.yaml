@@ -1,5 +1,5 @@
 _repo: Kansa-nousee_53632
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Savrola. Finnish
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '43144'
     url: http://www.gutenberg.org/2009/agents/43144
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Churchill, Winston
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1601
     wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53632#Kansa-nousee
 gutenberg_issued: '2016-11-29'
 gutenberg_type: Text
 identifiers:
